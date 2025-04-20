@@ -27,7 +27,7 @@ function App() {
     {
       title: 'Senior Frontend Developer',
       company: 'TechCorp Solutions',
-      location: 'Bangalore op',
+      location: 'Bangalore CAp',
       salary: '25-35 LPA',
       experience: '5-8 years',
       skills: ['React', 'TypeScript', 'Node.js'],
